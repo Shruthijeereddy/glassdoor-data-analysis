@@ -8,6 +8,18 @@ This project analyzes Glassdoor company data to explore company ratings, industr
 ## Objective
 The goal of this project is to perform exploratory data analysis (EDA) and build an interactive dashboard to help users explore company information and identify top-rated organizations.
 
+## Business Problem
+Job seekers and analysts often face difficulty comparing companies because review and rating data is large and unstructured. Manually analyzing company performance across industries and locations can be time-consuming.
+
+## Solution Approach
+This project performs exploratory data analysis on Glassdoor company data and presents insights through an interactive Streamlit dashboard. The application allows users to explore company ratings, filter industries, and view visual comparisons easily.
+
+## Business Impact
+- Simplifies company evaluation using visual analytics
+- Helps users identify highly rated organizations quickly
+- Demonstrates how dashboards support data-driven decision making
+- Converts raw datasets into meaningful insights
+
 ## Tools & Technologies
 - Python
 - Pandas
